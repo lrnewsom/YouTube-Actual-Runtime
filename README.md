@@ -25,6 +25,7 @@ OR
 
 ## Screenshot
 
+Example of the add-on in use at 1.75x speed.
 ![Example of the addon in use at 1.75x speed](docs/addon-screenshot.png)
 
 ## Tech
